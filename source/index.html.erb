@@ -1,19 +1,36 @@
----
-pageable: true
----
-<div class="articles">
-  <% page_articles.each_with_index do |article, i| %>
-    <% if i > 0 %>
-      <hr />
-    <% end %>
-    <%= partial '/blog/article', :locals => {:article => article, :digest => true} %>
-  <% end %>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Phin Blog</title>
+</head>
+
+
+<body>
+
+
 </div>
 
-<%= partial '/blog/pagination', :locals => {
-  :paginate => paginate, 
-  :next_page => next_page, 
-  :prev_page => prev_page,
-  :num_pages => num_pages,
-  :page_number => page_number
-} %>
+</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>
+  // To attach Backstrech as the body's background
+  $(function(){
+    $.backstretch("/images/cabin.jpg");
+  });
+
+
+  // // You may also attach Backstretch to a block-level element
+  // $(".foo").backstretch("path/to/image.jpg");
+
+  // // Or, to start a slideshow, just pass in an array of images
+  // $(".foo").backstretch([
+  //   "path/to/image.jpg",
+  //   "path/to/image2.jpg",
+  //   "path/to/image3.jpg"
+  // ], {duration: 4000});
+</script>
+</body>
+
+</html>
+

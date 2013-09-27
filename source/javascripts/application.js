@@ -1,3 +1,5 @@
+//= require vendor/jquery
+
 //= require foundation/foundation
 //= require foundation/foundation.alerts
 //= require foundation/foundation.clearing
@@ -13,3 +15,5 @@
 //= require foundation/foundation.tooltips
 //= require foundation/foundation.topbar
 //= require foundation/foundation.interchange
+
+//= require backstretch

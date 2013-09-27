@@ -17,7 +17,10 @@ activate :sprockets
 ###
 ## Blog settings
 ####
+activate :directory_indexes
 
+page "/index.html", :layout => "index.erb"
+page "/blog.html", :layout => "blog.erb"
 Time.zone = "America/Los_Angeles"
 
 activate :blog do |blog|
@@ -90,9 +93,9 @@ page "humans.txt", :layout => false
 #     "Helping"
 #   end
 # end
-
+activate :livereload
 # Generate sitemap after build
-activate :sitemap_generator 
+activate :sitemap_generator
 
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
@@ -101,7 +104,7 @@ set :images_dir, 'images'
 # Build-specific configuration
 configure :build do
 
-  activate :minify_css        
+  activate :minify_css
   activate :minify_javascript
 
   # Enable cache buster

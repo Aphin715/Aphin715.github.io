@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2013-09-27T17:25:00Z</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Quitting my job for a more fulfilling future…</title>
+    <link rel="alternate" href="/blog/2013/09/27/why.html"/>
+    <id>/blog/2013/09/27/why.html</id>
+    <published>2013-09-27T17:25:00Z</published>
+    <updated>2013-09-27T17:25:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;After I graduated from the University of Pittsburgh in the spring of 2009 with a degree in marketing I found it very difficult to find a job. I moved back to New York City and in with my parents which I referred to as my roommates whenever someone...&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;After I graduated from the University of Pittsburgh in the spring of 2009 with a degree in marketing I found it very difficult to find a job. I moved back to New York City and in with my parents which I referred to as my roommates whenever someone would ask if I lived with anyone. They were my roommates, they just happened to be married and also my parents.&lt;/p&gt;
+
+&lt;p&gt;After two years of doing odd jobs I would get from temp agencies I was placed at a real estate management company working as a leasing agent. I began to notice how much money brokers were making renting one of our apartments to their clients compared to what I made a week. If they rented one of the cheapest apartments on our property they would make more than I made in a month. It was then I decided I would become a broker.&lt;/p&gt;
+
+&lt;p&gt;I went to the New York Real Estate Institute in New York and took the required 40 hours of class time and passed the test and I was on my way to become a broker. I passed my broker’s test and was on my way to be on the show Million Dollar Listings… Little did I know that I wouldn’t be getting a salary and that everything I made was completely reliant on my sales skills. At first I really liked what I did even though I wasn’t making that much money. I was outside for a good portion of the day, I was meeting new people and I was making more money than I was working at the management company.&lt;/p&gt;
+
+&lt;p&gt;I was also getting screwed left and right by other brokers or clients, I was massaging the truth to clients to persuade them into renting the apartment from me and I was living not making money in the “slow months.” Fast forward two years in the industry and I hate my job, I am barely making enough money to survive in New York and I am still relying on my “roommates” for help getting by.&lt;/p&gt;
+
+&lt;p&gt;It was then when a friend of mine sent me a youtube video made by Mark Zuckerberg and Bill Gates about learning how to code : https://www.youtube.com/watch?v=Gjc6UX-BFks . So I started coding through the code academy and other online learning sites and I realized that I really liked it. After working on these sites and getting extremely frustrated when I couldn’t figure something out I started to look for schools that could help me in my journey to become a software developer.&lt;/p&gt;
+
+&lt;p&gt;I saw these schools that said they could teach you how to program in 10 weeks. It was then when I decided that I would quit my job and go back to school to learn how to program. I applied to a couple programs in New York and one in Boston. After submitting my applications I played the waiting game and it was just as stressful as college admissions. After being accepted into one of the schools in New York and one in Boston I took a look at each of the programs more intensely and decided that I would be moving to Boston and attending the Launch Academy . It is a 10 week bootcamp that transforms regular people with a passion for programming into software developers.&lt;/p&gt;
+
+&lt;p&gt;After 2 weeks at the Launch Academy I could not be happier with my decision. I am excited to come in every day and learn something new or build something new. I will write more about the Launch Academy and things we are doing during it, but that is it for now. I am going to need material for future posts…&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Lorem Ipsum</title>
+    <link rel="alternate" href="/blog/2012/01/01/example-article.html"/>
+    <id>/blog/2012/01/01/example-article.html</id>
+    <published>2012-01-01T08:00:00Z</published>
+    <updated>2012-01-01T08:00:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget lorem quis eros dictum dictum a vitae purus. Quisque non elit sit amet turpis ullamcorper blandit.
+Suspendisse vitae turpis et enim feugiat ullamcorper at non turpis. Vestibulum posuere, eros eget vulputate faucibus, metus massa congue velit, non pulvinar tortor risus
+ut enim. Pellentesque lectus ligula, vehicula luctus volutpat in, convallis quis ante. Proin non odio eu orci feugiat feugiat. Mauris molestie nisi non venenatis molestie.
+Pellentesque facilisis eros ut ultrices ultrices.
+</summary>
+    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget lorem quis eros dictum dictum a vitae purus. Quisque non elit sit amet turpis ullamcorper blandit.
+Suspendisse vitae turpis et enim feugiat ullamcorper at non turpis. Vestibulum posuere, eros eget vulputate faucibus, metus massa congue velit, non pulvinar tortor risus
+ut enim. Pellentesque lectus ligula, vehicula luctus volutpat in, convallis quis ante. Proin non odio eu orci feugiat feugiat. Mauris molestie nisi non venenatis molestie.
+Pellentesque facilisis eros ut ultrices ultrices.
+&lt;/p&gt;
+
+&lt;p&gt;Nam commodo hendrerit scelerisque. Ut tristique lacus lobortis neque rhoncus, ut tempor enim mattis. Suspendisse vel eleifend quam. Suspendisse luctus nisl eget elit euismod,
+in sodales metus blandit. Mauris nisi eros, venenatis a sagittis id, dictum id arcu. Nam tempus pulvinar ante at semper. Donec tincidunt dolor ac sem tempor laoreet.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;item 1&lt;/li&gt;
+  &lt;li&gt;item 1&lt;/li&gt;
+  &lt;li&gt;item 1&lt;/li&gt;
+  &lt;li&gt;item 1&lt;/li&gt;
+  &lt;li&gt;item 1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+</content>
+  </entry>
+</feed>
